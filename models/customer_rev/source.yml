@@ -5,7 +5,7 @@ sources:
 
     tables:
       - name: customers
-        identifier: customers_stg
+        identifier: customers
       - name: orders
         identifier: orders
       - name: orderitems
